@@ -193,6 +193,9 @@
   .m-auto {
     margin: auto;
   }
+  .mt-\[-10px\] {
+    margin-top: -10px;
+  }
   .mt-\[-100px\] {
     margin-top: -100px;
   }
@@ -415,6 +418,12 @@
   .w-\[270px\] {
     width: 270px;
   }
+  .w-\[400px\] {
+    width: 400px;
+  }
+  .w-\[500px\] {
+    width: 500px;
+  }
   .w-full {
     width: 100%;
   }
@@ -516,6 +525,9 @@
   }
   .rounded-\[0px\] {
     border-radius: 0px;
+  }
+  .rounded-\[5px\] {
+    border-radius: 5px;
   }
   .rounded-\[10px\] {
     border-radius: 10px;
@@ -684,6 +696,9 @@
   .p-\[10px\] {
     padding: 10px;
   }
+  .p-\[15p\] {
+    padding: 15p;
+  }
   .p-\[15px\] {
     padding: 15px;
   }
@@ -728,6 +743,9 @@
   }
   .py-5 {
     padding-block: calc(var(--spacing) * 5);
+  }
+  .pt-\[10px\] {
+    padding-top: 10px;
   }
   .pt-\[20px\] {
     padding-top: 20px;
@@ -802,8 +820,17 @@
   .text-\[14px\] {
     font-size: 14px;
   }
+  .text-\[15px\] {
+    font-size: 15px;
+  }
+  .text-\[16px\] {
+    font-size: 16px;
+  }
   .text-\[17px\] {
     font-size: 17px;
+  }
+  .text-\[18px\] {
+    font-size: 18px;
   }
   .text-\[20px\] {
     font-size: 20px;
@@ -851,6 +878,12 @@
   .font-medium {
     --tw-font-weight: var(--font-weight-medium);
     font-weight: var(--font-weight-medium);
+  }
+  .text-\[\#0C1623\] {
+    color: #0C1623;
+  }
+  .text-\[\#1D263AE5\] {
+    color: #1D263AE5;
   }
   .text-\[\#3E5658B2\] {
     color: #3E5658B2;
